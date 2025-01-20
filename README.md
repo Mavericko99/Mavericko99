@@ -1,4 +1,4 @@
-# ![Header Image](assets/images/header github.png)
+# ![Header Image](header github.png)
 # 👨‍💻 **AI Agent Developer | Blockchain & Cryptocurrency Enthusiast**
 
 I specialize in developing intelligent AI agents and algorithms that drive the future of cryptocurrencies. With a deep understanding of machine learning, neural networks, and decentralized technologies, I build smart solutions that optimize trading, security, and blockchain scalability. My goal is to leverage AI to enhance the efficiency, transparency, and security of crypto ecosystems.
