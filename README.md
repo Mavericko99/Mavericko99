@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👨‍💻 **AI Agent Developer | Blockchain & Cryptocurrency Enthusiast**
 
-<!--
-**Mavericko99/Mavericko99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in developing intelligent AI agents and algorithms that drive the future of cryptocurrencies. With a deep understanding of machine learning, neural networks, and decentralized technologies, I build smart solutions that optimize trading, security, and blockchain scalability. My goal is to leverage AI to enhance the efficiency, transparency, and security of crypto ecosystems.
 
-Here are some ideas to get you started:
+## 🔹 **Skills & Expertise:**
+- AI-driven trading algorithms (ML/Deep Learning)
+- Blockchain development (Ethereum, Bitcoin, DeFi protocols)
+- Smart contract creation & auditing
+- Crypto wallet and transaction security
+- Data analysis & predictive modeling for market trends
+- Natural language processing (NLP) for crypto bots & chatbots
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 **Current Projects:**
+- Building an AI-powered crypto trading bot that adapts to market volatility.
+- Developing a decentralized AI agent for cross-chain transactions.
+- Enhancing blockchain security with AI-driven threat detection.
+
+## 🔹 **Tech Stack:**
+- Python, TensorFlow, Keras, PyTorch
+- Ethereum, Solidity, Web3.js
+- Binance API, CoinGecko API
+- Cloud platforms: AWS, Google Cloud
+
